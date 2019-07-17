@@ -1,0 +1,12 @@
+{
+  "name": "momentjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MonguDykrai/momentjsxuexibiji.git",
+  "author": "M <M@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "consola": "^2.9.0",
+    "moment": "^2.24.0"
+  }
+}
